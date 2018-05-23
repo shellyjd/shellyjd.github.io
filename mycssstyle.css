@@ -10,6 +10,10 @@ h1 {
   color: red;
   }
 
+.name{
+  text-align:center;
+  font-family: 'Rock Salt', cursive;
+}
 .quotes {
   font-size: 25px;
   font-family: Helvetica;
@@ -19,4 +23,10 @@ h1 {
 
 ul li {
   list-style-type: circle;
+}
+
+img{
+  margin: 3rem;
+  border: 5px solid navy;
+  padding: 5px;
 }
