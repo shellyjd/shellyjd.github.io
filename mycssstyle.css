@@ -14,6 +14,11 @@ h1 {
   text-align:center;
   font-family: 'Rock Salt', cursive;
 }
+
+.title{
+  text-align: center;
+}
+
 .quotes {
   font-size: 25px;
   font-family: Helvetica;
@@ -26,6 +31,7 @@ ul li {
 }
 
 img{
+  image-orientation: center;
   margin: 3rem;
   border: 5px solid navy;
   padding: 5px;
