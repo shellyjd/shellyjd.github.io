@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana;
+  font-family: Lato, sans-serif;
   font-size: 1rem;
 }
 
@@ -34,4 +34,8 @@ body {
 .flexbox {
   display: flex;
   justify-content: center;
+}
+.footer{
+  text-align: center;
+  font-size: 0.75rem;
 }
