@@ -45,3 +45,7 @@ font-family: 'Lato', sans-serif;
 p{
   font-family: lato;
 }
+h1{
+  text-decoration: underline;
+  justify-content: center;
+}
