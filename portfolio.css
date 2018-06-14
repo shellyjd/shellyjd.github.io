@@ -18,10 +18,6 @@ body {
   max-width: 400px;
 }
 
-.flex-item {
-  background-color: bisque;
-}
-
 .navigation>ul>li a {
   text-decoration: none;
   color: grey;
@@ -47,4 +43,26 @@ h1{
 }
 .personal-info{
   font-family: lato;
+  line-height: .5rem;
+}
+.icons{
+   text-align: center;
+}
+
+.shelly-img{
+  min-width: 400px;
+}
+
+.flexbox-video{
+  display: flex;
+  width: 480px;
+}
+
+.flex-main{
+  min-width: 600px;
+  order: 1;
+}
+
+.flex-video-side{
+  order: 2;
 }
