@@ -19,12 +19,12 @@ body {
 }
 
 .flex-item {
-  background-color: grey;
+  background-color: bisque;
 }
 
 .navigation>ul>li a {
   text-decoration: none;
-  color:;
+  color: grey;
 }
 
 .navigation>ul>li a:hover {
@@ -45,7 +45,6 @@ body {
 h1{
   text-decoration: underline;
 }
-.hello{
+.personal-info{
   font-family: lato;
-
 }
