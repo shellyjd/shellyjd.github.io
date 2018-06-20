@@ -31,8 +31,8 @@ body {
 
 .navigation>ul>li a:hover {
   text-decoration: underline;
-}
 
+}
 .flexbox {
   display: flex;
   justify-content: center;
@@ -48,13 +48,7 @@ p {
   font-family: lato;
 }
 
-.center-div {
-  border: 1px solid;
-  display: block;
-  margin: auto;
-  width: 90%;
-  text-align: center;
-}
+
 
 .center-img {
   max-width: 100%;
@@ -65,33 +59,15 @@ h1 {
   text-decoration: underline;
 }
 
-.center-img {
-  max-width: 100%;
-  text-align: center;
-}
-
-.container {
-  border: 1px solid;
-  display: block;
-  margin: auto;
-}
-
-.grey-overlay {
-  position: absolute;
-  /* Position the background text */
-  bottom: 0;
-  /* At the bottom. Use top:0 to append it to the top */
-  background: rgba(0, 0, 0, 0.5);
-  /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  /* Grey text */
-  width: auto;
-  padding: 10px;
-  /* Some padding */
-  text-align: center;
-  line-height: 1.2em;
-}
-
 .icons {
-  text-align: right;
+  text-align: center;
+}
+
+.image-connect {
+max-width: 100%;
+text-align: center;
+}
+.text-connect{
+font-size: 20px;
+text-decoration: none;
 }
