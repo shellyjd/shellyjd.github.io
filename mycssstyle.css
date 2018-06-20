@@ -1,38 +1,35 @@
-p {
-  font-size: 16px;
-  line-height:15px;
-  text-align:center;
-  color: #223344;
-  }
-
 h1 {
-  font-size: 70px;
+  font-family: "Rock Salt", cursive;
   color: red;
-  }
-
-.name{
-  text-align:center;
-  font-family: 'Rock Salt', cursive;
+  font-size: 80px;
 }
-
-.title{
+.Title {
   text-align: center;
 }
-
-.quotes {
-  font-size: 25px;
-  font-family: Helvetica;
+p {
+  text-align: center;
+}
+blockquote {
+  font-size: 30px;
   font-weight: bold;
   text-align: center;
-  }
-
-ul li {
-  list-style-type: circle;
+  color: red;
 }
-
-img{
-  image-orientation: center;
-  margin: 3rem;
-  border: 5px solid navy;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border: 9px solid navy;
   padding: 5px;
+  width: 300px;
+}
+h3 {
+  text-align: center;
+}
+.fc {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
