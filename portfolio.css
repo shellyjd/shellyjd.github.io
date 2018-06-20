@@ -21,7 +21,7 @@ body {
 }
 
 .flex-item {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 .navigation>ul>li a {
@@ -70,4 +70,12 @@ text-align: center;
 .text-connect{
 font-size: 20px;
 text-decoration: none;
+}
+.web-intro{
+  text-decoration: none;
+  text-align: center;
+}
+.flex-projects{
+  text-align: center;
+  
 }
