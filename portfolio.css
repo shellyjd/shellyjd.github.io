@@ -27,7 +27,6 @@ body {
 
 
 
-
 .shelly-img {
   max-width: 400px;
 }
@@ -80,6 +79,18 @@ h3{
 max-width: 100%;
 text-align: center;
 }
+.connect-navigation{
+  font-family: lato;
+  font-size: 1rem;
+  line-height: .5em;
+  padding-top:5em;
+  padding-bottom: 10em;
+}
+
+
+
+
+
 .text-connect{
 font-size: 20px;
 text-decoration: none;
