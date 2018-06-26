@@ -104,6 +104,10 @@ text-decoration: none;
   padding-right: 2.5rem;
 }
 
+.fab {
+  color: black;
+}
+
 /* START web page */
 .web-intro{
   text-align: center;
